@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![Ödev Resim](C:\Users\anony\Desktop\dev\patikadev\kodluyoruzilkrepo/ödev.png)
+![Ödev Resim](https://github.com/levent1ozgur/kodluyoruzilkrepo/blob/main/%C3%B6dev.png)
 
 ## Installation
 
